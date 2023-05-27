@@ -1,0 +1,1 @@
+Command line weather app in rust that fetches weather details from openweathermap.org 
